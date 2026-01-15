@@ -1,9 +1,9 @@
-# Calculadora em JavaScript
+# Calculator in JavaScript
 
-Projeto simples desenvolvido no início do aprendizado em JavaScript.
+Beginner project developed during my first steps learning JavaScript.
 
-## Objetivo
-Praticar:
-- lógica básica
-- eventos
-- manipulação do DOM
+## What I practiced
+- Basic logic
+- Functions
+- Events
+- DOM manipulation
